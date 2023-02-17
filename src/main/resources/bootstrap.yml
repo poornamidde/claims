@@ -3,4 +3,4 @@ spring:
     config:
       enabled: true
       uri: 
-        - http//20.163.181.235:8888
+        - http//44.201.24.72:8888
